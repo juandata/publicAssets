@@ -1,0 +1,1290 @@
+{
+  "Fútbol": {
+    "Australia - NPL Tasmania": [
+      {
+        "eventId": "1f0a3eac-c0b4-4ef2-be89-86edc938a1b5",
+        "participants": {
+          "participant1": "Launceston United",
+          "participant2": "Launceston City FC"
+        },
+        "markets": [
+          {
+            "marketHeadingTitle": "Resultado del partido",
+            "marketsText": {
+              "1": "12.50",
+              "2": "1.22",
+              "X": "4.75"
+            }
+          },
+          {
+            "marketHeadingTitle": "Goles totales Más/Menos",
+            "marketsText": {
+              "Más4.5": "1.65",
+              "Menos4.5": "2.07"
+            }
+          },
+          {
+            "marketHeadingTitle": "Goles totales Más/Menos (extra)",
+            "marketsText": {
+              "Más3.5": "1.20",
+              "Menos3.5": "3.95",
+              "Más5.5": "2.60",
+              "Menos5.5": "1.42"
+            }
+          },
+          {
+            "marketHeadingTitle": "Próximo gol (Gol 3)",
+            "marketsText": {
+              "Launceston United": "4.70",
+              "Sin Goles": "11.50",
+              "Launceston City FC": "1.23"
+            }
+          },
+          {
+            "marketHeadingTitle": "Doble oportunidad",
+            "marketsText": {
+              "12": "1.13",
+              "1X": "3.00",
+              "2X": "1.04"
+            }
+          },
+          {
+            "marketHeadingTitle": "Apuesta sin Empate",
+            "marketsText": {
+              "Launceston United": "8.25",
+              "Launceston City FC": "1.03"
+            }
+          },
+          {
+            "marketHeadingTitle": "Hándicap Asiático (Resultado actual 1 - 1)",
+            "marketsText": {
+              "Launceston United+1.75": "1.80",
+              "Launceston City FC-1.75": "1.83"
+            }
+          },
+          {
+            "marketHeadingTitle": "Hándicap Asiático (Resultado actual 1 - 1) (extra)",
+            "marketsText": {
+              "Launceston United+1.5": "2.02",
+              "Launceston City FC-1.5": "1.65",
+              "Launceston United+2.0": "1.60",
+              "Launceston City FC-2.0": "2.12"
+            }
+          },
+          {
+            "marketHeadingTitle": "Marcador Correcto",
+            "marketsText": {
+              "2 - 1": "32.00",
+              "3 - 1": "120.00",
+              "3 - 2": "45.00",
+              "4 - 1": "700.00",
+              "4 - 2": "250.00",
+              "4 - 3": "175.00",
+              "1 - 1": "11.50",
+              "2 - 2": "10.75",
+              "3 - 3": "29.00",
+              "4 - 4": "150.00",
+              "1 - 2": "6.30",
+              "1 - 3": "5.50",
+              "2 - 3": "9.00",
+              "1 - 4": "6.80",
+              "2 - 4": "11.25",
+              "3 - 4": "35.00",
+              "1 - 5": "11.00",
+              "2 - 5": "18.50",
+              "3 - 5": "55.00",
+              "4 - 5": "250.00",
+              "1 - 6": "22.00",
+              "2 - 6": "37.00",
+              "3 - 6": "110.00",
+              "4 - 6": "500.00",
+              "1 - 7": "50.00",
+              "2 - 7": "90.00",
+              "3 - 7": "250.00",
+              "1 - 8": "150.00",
+              "2 - 8": "250.00",
+              "3 - 8": "700.00",
+              "1 - 9": "450.00",
+              "2 - 9": "700.00"
+            }
+          },
+          {
+            "marketHeadingTitle": "Resultado del Partido con Hándicap",
+            "marketsText": {
+              "+2": "3.70",
+              "-2": "2.80"
+            }
+          }
+        ],
+        "liveScore": "uknown live score",
+        "eventTime": "45:32"
+      }
+    ],
+    "Australia - Victoria Premier League 1 Sub-23": [
+      {
+        "eventId": "016f9131-1faa-467f-9ab0-1b0fdbaaded0",
+        "participants": {
+          "participant1": "Manningham United Blues Sub-23",
+          "participant2": "Eastern Lions Sub-23"
+        },
+        "markets": [
+          {
+            "marketHeadingTitle": "Resultado del partido",
+            "marketsText": {
+              "1": "2.12",
+              "2": "2.42",
+              "X": "4.45"
+            }
+          },
+          {
+            "marketHeadingTitle": "Goles totales Más/Menos",
+            "marketsText": {
+              "Más4.5": "1.87",
+              "Menos4.5": "1.78"
+            }
+          },
+          {
+            "marketHeadingTitle": "Próximo gol (Gol 1)",
+            "marketsText": {
+              "Manningham United Blues Sub-23": "1.78",
+              "Sin Goles": "50.00",
+              "Eastern Lions Sub-23": "1.87"
+            }
+          },
+          {
+            "marketHeadingTitle": "Resultado Primer Tiempo",
+            "marketsText": {
+              "Manningham United Blues Sub-23": "2.47",
+              "Empate": "2.82",
+              "Eastern Lions Sub-23": "2.70"
+            }
+          },
+          {
+            "marketHeadingTitle": "Más/Menos Goles en Primer Tiempo",
+            "marketsText": {
+              "Más1.5": "1.55",
+              "Menos1.5": "2.07"
+            }
+          },
+          {
+            "marketHeadingTitle": "Doble oportunidad",
+            "marketsText": {
+              "12": "1.18",
+              "1X": "1.45",
+              "2X": "1.65"
+            }
+          },
+          {
+            "marketHeadingTitle": "Apuesta sin Empate",
+            "marketsText": {
+              "Manningham United Blues Sub-23": "1.72",
+              "Eastern Lions Sub-23": "1.93"
+            }
+          },
+          {
+            "marketHeadingTitle": "Hándicap Asiático (Resultado actual 0 - 0)",
+            "marketsText": {
+              "Manningham United Blues Sub-23-0.25": "1.87",
+              "Eastern Lions Sub-23+0.25": "1.75"
+            }
+          },
+          {
+            "marketHeadingTitle": "Hándicap Asiático (Resultado actual 0 - 0) (extra)",
+            "marketsText": {
+              "Manningham United Blues Sub-23 0.0": "1.70",
+              "Eastern Lions Sub-23 0.0": "1.91"
+            }
+          },
+          {
+            "marketHeadingTitle": "Medio Tiempo/Τiempo Completo",
+            "marketsText": {
+              "1/1": "3.25",
+              "1/X": "13.00",
+              "1/2": "17.50",
+              "X/1": "6.50",
+              "X/X": "9.25",
+              "X/2": "7.20",
+              "2/1": "16.00",
+              "2/X": "13.00",
+              "2/2": "3.75"
+            }
+          },
+          {
+            "marketHeadingTitle": "Marcador Correcto",
+            "marketsText": {
+              "1 - 0": "25.00",
+              "2 - 0": "22.00",
+              "2 - 1": "11.00",
+              "3 - 0": "27.00",
+              "3 - 1": "13.50",
+              "3 - 2": "12.00",
+              "4 - 0": "40.00",
+              "4 - 1": "21.00",
+              "4 - 2": "19.50",
+              "4 - 3": "25.00",
+              "5 - 0": "80.00",
+              "5 - 1": "40.00",
+              "5 - 2": "37.00",
+              "5 - 3": "50.00",
+              "5 - 4": "80.00",
+              "6 - 0": "175.00",
+              "6 - 1": "90.00",
+              "6 - 2": "80.00",
+              "6 - 3": "110.00",
+              "6 - 4": "175.00",
+              "6 - 5": "400.00",
+              "7 - 0": "450.00",
+              "7 - 1": "250.00",
+              "7 - 2": "200.00",
+              "7 - 3": "300.00",
+              "7 - 4": "500.00",
+              "8 - 1": "700.00",
+              "8 - 2": "600.00",
+              "0 - 0": "50.00",
+              "1 - 1": "12.50",
+              "2 - 2": "10.00",
+              "3 - 3": "16.00",
+              "4 - 4": "45.00",
+              "5 - 5": "175.00",
+              "0 - 1": "27.00",
+              "0 - 2": "25.00",
+              "1 - 2": "11.50",
+              "0 - 3": "32.00",
+              "1 - 3": "15.00",
+              "2 - 3": "13.00",
+              "0 - 4": "55.00",
+              "1 - 4": "25.00",
+              "2 - 4": "22.00",
+              "3 - 4": "27.00",
+              "0 - 5": "110.00",
+              "1 - 5": "50.00",
+              "2 - 5": "45.00",
+              "3 - 5": "55.00",
+              "4 - 5": "90.00",
+              "0 - 6": "250.00",
+              "1 - 6": "120.00",
+              "2 - 6": "110.00",
+              "3 - 6": "120.00",
+              "4 - 6": "200.00",
+              "5 - 6": "400.00",
+              "0 - 7": "700.00",
+              "1 - 7": "350.00",
+              "2 - 7": "300.00",
+              "3 - 7": "350.00",
+              "4 - 7": "600.00"
+            }
+          }
+        ],
+        "liveScore": "uknown live score",
+        "eventTime": "Comienza pronto"
+      }
+    ],
+    "Australia - NPL South Australia Reserves": [
+      {
+        "eventId": "948297b1-ca4a-4a59-a774-848372adb61e",
+        "participants": {
+          "participant1": "Adelaide Croatia Raiders II",
+          "participant2": "Adelaide City II"
+        },
+        "markets": [
+          {
+            "marketHeadingTitle": "Resultado del partido",
+            "marketsText": {
+              "1": "1.21",
+              "2": "8.00",
+              "X": "6.40"
+            }
+          },
+          {
+            "marketHeadingTitle": "Goles totales Más/Menos",
+            "marketsText": {
+              "Más4.5": "1.60",
+              "Menos4.5": "2.18"
+            }
+          },
+          {
+            "marketHeadingTitle": "Goles totales Más/Menos (extra)",
+            "marketsText": {
+              "Más5.5": "2.32",
+              "Menos5.5": "1.52",
+              "Más6.5": "3.65",
+              "Menos6.5": "1.22"
+            }
+          },
+          {
+            "marketHeadingTitle": "Próximo gol (Gol 2)",
+            "marketsText": {
+              "Adelaide Croatia Raiders II": "1.47",
+              "Sin Goles": "35.00",
+              "Adelaide City II": "2.47"
+            }
+          },
+          {
+            "marketHeadingTitle": "Resultado Primer Tiempo",
+            "marketsText": {
+              "Adelaide Croatia Raiders II": "1.21",
+              "Empate": "4.70",
+              "Adelaide City II": "11.25"
+            }
+          },
+          {
+            "marketHeadingTitle": "Más/Menos Goles en Primer Tiempo",
+            "marketsText": {
+              "Más2.5": "1.75",
+              "Menos2.5": "1.90"
+            }
+          },
+          {
+            "marketHeadingTitle": "Más/Menos Goles en Primer Tiempo (extra)",
+            "marketsText": {
+              "Más1.5": "1.14",
+              "Menos1.5": "4.50",
+              "Más3.5": "3.30",
+              "Menos3.5": "1.26"
+            }
+          },
+          {
+            "marketHeadingTitle": "Doble oportunidad",
+            "marketsText": {
+              "12": "1.09",
+              "1X": "1.06",
+              "2X": "4.25"
+            }
+          },
+          {
+            "marketHeadingTitle": "Ambos equipos anotan",
+            "marketsText": {
+              "Sí": "1.22",
+              "No": "3.55"
+            }
+          },
+          {
+            "marketHeadingTitle": "Apuesta sin Empate",
+            "marketsText": {
+              "Adelaide Croatia Raiders II": "1.06",
+              "Adelaide City II": "7.40"
+            }
+          },
+          {
+            "marketHeadingTitle": "Hándicap Asiático (Resultado actual 1 - 0)",
+            "marketsText": {
+              "Adelaide Croatia Raiders II-1.25": "1.90",
+              "Adelaide City II+1.25": "1.72"
+            }
+          },
+          {
+            "marketHeadingTitle": "Hándicap Asiático (Resultado actual 1 - 0) (extra)",
+            "marketsText": {
+              "Adelaide Croatia Raiders II-1.5": "2.07",
+              "Adelaide City II+1.5": "1.60",
+              "Adelaide Croatia Raiders II-1.0": "1.72",
+              "Adelaide City II+1.0": "1.90"
+            }
+          },
+          {
+            "marketHeadingTitle": "Medio Tiempo/Τiempo Completo",
+            "marketsText": {
+              "1/1": "1.33",
+              "1/X": "10.25",
+              "1/2": "21.00",
+              "X/1": "8.00",
+              "X/X": "14.50",
+              "X/2": "17.50",
+              "2/1": "37.00",
+              "2/X": "37.00",
+              "2/2": "20.00"
+            }
+          },
+          {
+            "marketHeadingTitle": "Marcador Correcto",
+            "marketsText": {
+              "1 - 0": "35.00",
+              "2 - 0": "18.00",
+              "2 - 1": "12.50",
+              "3 - 0": "14.00",
+              "3 - 1": "9.75",
+              "3 - 2": "13.00",
+              "4 - 0": "15.50",
+              "4 - 1": "11.00",
+              "4 - 2": "14.50",
+              "4 - 3": "29.00",
+              "5 - 0": "23.00",
+              "5 - 1": "16.00",
+              "5 - 2": "22.00",
+              "5 - 3": "40.00",
+              "5 - 4": "110.00",
+              "6 - 0": "40.00",
+              "6 - 1": "29.00",
+              "6 - 2": "40.00",
+              "6 - 3": "75.00",
+              "6 - 4": "200.00",
+              "6 - 5": "600.00",
+              "7 - 0": "90.00",
+              "7 - 1": "65.00",
+              "7 - 2": "80.00",
+              "7 - 3": "175.00",
+              "7 - 4": "450.00",
+              "8 - 0": "200.00",
+              "8 - 1": "150.00",
+              "8 - 2": "200.00",
+              "8 - 3": "400.00",
+              "8 - 4": "1000.00",
+              "9 - 0": "600.00",
+              "9 - 1": "450.00",
+              "9 - 2": "600.00",
+              "1 - 1": "30.00",
+              "2 - 2": "16.50",
+              "3 - 3": "25.00",
+              "4 - 4": "75.00",
+              "5 - 5": "350.00",
+              "1 - 2": "40.00",
+              "1 - 3": "80.00",
+              "2 - 3": "32.00",
+              "1 - 4": "200.00",
+              "2 - 4": "80.00",
+              "3 - 4": "65.00",
+              "1 - 5": "600.00",
+              "2 - 5": "250.00",
+              "3 - 5": "200.00",
+              "4 - 5": "250.00",
+              "2 - 6": "1000.00",
+              "3 - 6": "700.00",
+              "4 - 6": "900.00"
+            }
+          },
+          {
+            "marketHeadingTitle": "Resultado del partido con Más/Menos (2.5)",
+            "marketsText": {
+              "1 y Más2.5": "1.28",
+              "1 y Menos2.5": "10.25",
+              "2 y Más2.5": "7.70",
+              "X y Más2.5": "7.40",
+              "X y Menos2.5": "22.00"
+            }
+          },
+          {
+            "marketHeadingTitle": "Resultado del partido con Más/Menos (3.5)",
+            "marketsText": {
+              "1 y Más3.5": "1.50",
+              "1 y Menos3.5": "4.30",
+              "2 y Más3.5": "10.25",
+              "2 y Menos3.5": "32.00",
+              "X y Más3.5": "8.00",
+              "X y Menos3.5": "22.00"
+            }
+          },
+          {
+            "marketHeadingTitle": "Resultado del partido / Ambos Equipos Anotan",
+            "marketsText": {
+              "Adelaide Croatia Raiders II / Sí": "1.62",
+              "Adelaide Croatia Raiders II / No": "3.45",
+              "Empate / Sí": "6.40",
+              "Adelaide City II / Sí": "8.00"
+            }
+          },
+          {
+            "marketHeadingTitle": "Ambos Anotan y Más/Menos (2.5)",
+            "marketsText": {
+              "Sí y Más2.5": "1.28",
+              "No y Más2.5": "4.35",
+              "Sí y Menos2.5": "30.00",
+              "No y Menos2.5": "10.50"
+            }
+          },
+          {
+            "marketHeadingTitle": "Ambos Anotan y Más/Menos (3.5)",
+            "marketsText": {
+              "Sí y Más3.5": "1.44",
+              "No y Más3.5": "6.60",
+              "Sí y Menos3.5": "7.00",
+              "No y Menos3.5": "6.40"
+            }
+          },
+          {
+            "marketHeadingTitle": "Resultado del Partido con Hándicap",
+            "marketsText": {
+              "-2": "4.20",
+              "+2": "2.42"
+            }
+          }
+        ],
+        "liveScore": "uknown live score",
+        "eventTime": "1:14"
+      }
+    ],
+    "Australia - NPL Capital Sub-23": [
+      {
+        "eventId": "4913455d-a159-439c-ae1a-d9a6f9e45cb1",
+        "participants": {
+          "participant1": "OConnor Knights Sub-23",
+          "participant2": "Yoogali Sub-23"
+        },
+        "markets": [
+          {
+            "marketHeadingTitle": "Resultado del partido",
+            "marketsText": {
+              "1": "1.47",
+              "2": "5.30",
+              "X": "4.10"
+            }
+          },
+          {
+            "marketHeadingTitle": "Goles totales Más/Menos",
+            "marketsText": {
+              "Más2.5": "1.65",
+              "Menos2.5": "2.07"
+            }
+          },
+          {
+            "marketHeadingTitle": "Goles totales Más/Menos (extra)",
+            "marketsText": {
+              "Más1.5": "1.20",
+              "Menos1.5": "3.95",
+              "Más3.5": "2.62",
+              "Menos3.5": "1.40"
+            }
+          },
+          {
+            "marketHeadingTitle": "Próximo gol (Gol 1)",
+            "marketsText": {
+              "OConnor Knights Sub-23": "1.44",
+              "Sin Goles": "12.50",
+              "Yoogali Sub-23": "3.00"
+            }
+          },
+          {
+            "marketHeadingTitle": "Resultado Primer Tiempo",
+            "marketsText": {
+              "OConnor Knights Sub-23": "2.70",
+              "Empate": "1.65",
+              "Yoogali Sub-23": "6.40"
+            }
+          },
+          {
+            "marketHeadingTitle": "Más/Menos Goles en Primer Tiempo",
+            "marketsText": {
+              "Más0.5": "1.85",
+              "Menos0.5": "1.78"
+            }
+          },
+          {
+            "marketHeadingTitle": "Más/Menos Goles en Primer Tiempo (extra)",
+            "marketsText": {
+              "Más1.5": "5.20",
+              "Menos1.5": "1.10",
+              "Más2.5": "8.75",
+              "Menos2.5": "1.01"
+            }
+          },
+          {
+            "marketHeadingTitle": "Doble oportunidad",
+            "marketsText": {
+              "12": "1.19",
+              "1X": "1.13",
+              "2X": "2.55"
+            }
+          },
+          {
+            "marketHeadingTitle": "Ambos equipos anotan",
+            "marketsText": {
+              "Sí": "1.78",
+              "No": "1.85"
+            }
+          },
+          {
+            "marketHeadingTitle": "Apuesta sin Empate",
+            "marketsText": {
+              "OConnor Knights Sub-23": "1.18",
+              "Yoogali Sub-23": "4.30"
+            }
+          },
+          {
+            "marketHeadingTitle": "Hándicap Asiático (Resultado actual 0 - 0)",
+            "marketsText": {
+              "OConnor Knights Sub-23-1.0": "1.72",
+              "Yoogali Sub-23+1.0": "1.90"
+            }
+          },
+          {
+            "marketHeadingTitle": "Hándicap Asiático (Resultado actual 0 - 0) (extra)",
+            "marketsText": {
+              "OConnor Knights Sub-23-1.25": "1.98",
+              "Yoogali Sub-23+1.25": "1.65",
+              "OConnor Knights Sub-23-0.75": "1.55",
+              "Yoogali Sub-23+0.75": "2.15"
+            }
+          },
+          {
+            "marketHeadingTitle": "Medio Tiempo/Τiempo Completo",
+            "marketsText": {
+              "1/1": "3.10",
+              "1/X": "20.00",
+              "1/2": "50.00",
+              "X/1": "2.62",
+              "X/X": "5.60",
+              "X/2": "8.25",
+              "2/1": "18.50",
+              "2/X": "21.00",
+              "2/2": "13.50"
+            }
+          },
+          {
+            "marketHeadingTitle": "Marcador Correcto",
+            "marketsText": {
+              "1 - 0": "7.50",
+              "2 - 0": "7.30",
+              "2 - 1": "8.25",
+              "3 - 0": "10.50",
+              "3 - 1": "11.50",
+              "3 - 2": "24.00",
+              "4 - 0": "19.00",
+              "4 - 1": "21.00",
+              "4 - 2": "45.00",
+              "4 - 3": "150.00",
+              "5 - 0": "45.00",
+              "5 - 1": "50.00",
+              "5 - 2": "100.00",
+              "5 - 3": "300.00",
+              "6 - 0": "120.00",
+              "6 - 1": "120.00",
+              "6 - 2": "300.00",
+              "6 - 3": "900.00",
+              "7 - 0": "350.00",
+              "7 - 1": "400.00",
+              "7 - 2": "900.00",
+              "0 - 0": "12.50",
+              "1 - 1": "8.25",
+              "2 - 2": "17.00",
+              "3 - 3": "75.00",
+              "4 - 4": "600.00",
+              "0 - 1": "16.00",
+              "0 - 2": "35.00",
+              "1 - 2": "17.50",
+              "0 - 3": "100.00",
+              "1 - 3": "55.00",
+              "2 - 3": "55.00",
+              "0 - 4": "400.00",
+              "1 - 4": "200.00",
+              "2 - 4": "200.00",
+              "3 - 4": "300.00"
+            }
+          },
+          {
+            "marketHeadingTitle": "Resultado del partido con Más/Menos (2.5)",
+            "marketsText": {
+              "1 y Más2.5": "2.15",
+              "1 y Menos2.5": "3.80",
+              "2 y Más2.5": "9.00",
+              "2 y Menos2.5": "11.00",
+              "X y Más2.5": "13.50",
+              "X y Menos2.5": "5.40"
+            }
+          },
+          {
+            "marketHeadingTitle": "Resultado del partido con Más/Menos (3.5)",
+            "marketsText": {
+              "1 y Más3.5": "3.45",
+              "1 y Menos3.5": "2.27",
+              "2 y Más3.5": "19.50",
+              "2 y Menos3.5": "6.70",
+              "X y Más3.5": "13.50",
+              "X y Menos3.5": "5.40"
+            }
+          },
+          {
+            "marketHeadingTitle": "Resultado del partido / Ambos Equipos Anotan",
+            "marketsText": {
+              "OConnor Knights Sub-23 / Sí": "3.05",
+              "OConnor Knights Sub-23 / No": "2.50",
+              "Empate / Sí": "5.40",
+              "Empate / No": "12.50",
+              "Yoogali Sub-23 / Sí": "9.75",
+              "Yoogali Sub-23 / No": "10.00"
+            }
+          },
+          {
+            "marketHeadingTitle": "Ambos Anotan y Más/Menos (2.5)",
+            "marketsText": {
+              "Sí y Más2.5": "2.18",
+              "No y Más2.5": "5.50",
+              "Sí y Menos2.5": "8.25",
+              "No y Menos2.5": "2.60"
+            }
+          },
+          {
+            "marketHeadingTitle": "Ambos Anotan y Más/Menos (3.5)",
+            "marketsText": {
+              "Sí y Más3.5": "3.20",
+              "No y Más3.5": "11.50",
+              "Sí y Menos3.5": "3.55",
+              "No y Menos3.5": "2.15"
+            }
+          },
+          {
+            "marketHeadingTitle": "Resultado del Partido con Hándicap",
+            "marketsText": {
+              "-1": "3.55",
+              "+1": "2.55"
+            }
+          }
+        ],
+        "eventTime": "29:56"
+      }
+    ],
+    "Australia - Tasmania Southern Championship 1": [
+      {
+        "eventId": "df778db4-4b28-426e-b96d-73d9f8159049",
+        "participants": {
+          "participant1": "New Town Eagles II",
+          "participant2": "Olympia Warriors II"
+        },
+        "markets": [
+          {
+            "marketHeadingTitle": "Goles totales Más/Menos",
+            "marketsText": {
+              "Más7.5": "2.25",
+              "Menos7.5": "1.55"
+            }
+          },
+          {
+            "marketHeadingTitle": "Goles totales Más/Menos (extra)",
+            "marketsText": {
+              "Más6.5": "1.50",
+              "Menos6.5": "2.37",
+              "Más8.5": "3.75",
+              "Menos8.5": "1.21"
+            }
+          },
+          {
+            "marketHeadingTitle": "Próximo gol (Gol 5)",
+            "marketsText": {
+              "New Town Eagles II": "1.17",
+              "Sin Goles": "9.00",
+              "Olympia Warriors II": "5.30"
+            }
+          },
+          {
+            "marketHeadingTitle": "Hándicap Asiático (Resultado actual 3 - 1)",
+            "marketsText": {
+              "New Town Eagles II-2.25": "1.85",
+              "Olympia Warriors II+2.25": "1.75"
+            }
+          },
+          {
+            "marketHeadingTitle": "Hándicap Asiático (Resultado actual 3 - 1) (extra)",
+            "marketsText": {
+              "New Town Eagles II-2.5": "2.05",
+              "Olympia Warriors II+2.5": "1.60",
+              "New Town Eagles II-2.0": "1.65",
+              "Olympia Warriors II+2.0": "2.00"
+            }
+          },
+          {
+            "marketHeadingTitle": "Marcador Correcto",
+            "marketsText": {
+              "3 - 1": "9.00",
+              "3 - 2": "37.00",
+              "4 - 1": "7.30",
+              "4 - 2": "15.00",
+              "4 - 3": "55.00",
+              "5 - 1": "5.40",
+              "5 - 2": "11.00",
+              "5 - 3": "45.00",
+              "5 - 4": "250.00",
+              "6 - 1": "5.80",
+              "6 - 2": "12.00",
+              "6 - 3": "45.00",
+              "6 - 4": "250.00",
+              "7 - 1": "8.25",
+              "7 - 2": "17.00",
+              "7 - 3": "65.00",
+              "7 - 4": "350.00",
+              "8 - 1": "14.00",
+              "8 - 2": "29.00",
+              "8 - 3": "110.00",
+              "8 - 4": "600.00",
+              "9 - 1": "28.00",
+              "9 - 2": "60.00",
+              "9 - 3": "250.00",
+              "10 - 1": "65.00",
+              "10 - 2": "150.00",
+              "10 - 3": "600.00",
+              "11 - 1": "175.00",
+              "11 - 2": "400.00",
+              "12 - 1": "500.00",
+              "3 - 3": "150.00",
+              "4 - 4": "300.00"
+            }
+          },
+          {
+            "marketHeadingTitle": "Resultado del Partido con Hándicap",
+            "marketsText": {
+              "-4": "3.80",
+              "+4": "2.62"
+            }
+          }
+        ],
+        "liveScore": "uknown live score",
+        "eventTime": "45:00"
+      }
+    ],
+    "EE. UU. - WNBA (F)": [
+      {
+        "eventId": "9866fbae-8363-4bfa-b8dc-0d456aeb2722",
+        "participants": {
+          "participant1": "Las Vegas Aces (F)",
+          "participant2": "Washington Mystics (F)"
+        },
+        "markets": [
+          {
+            "marketHeadingTitle": "Resultado - Fin Tiempo Reg.",
+            "marketsText": {
+              "Las Vegas Aces (F)": "1.57",
+              "Empate": "7.90",
+              "Washington Mystics (F)": "2.55"
+            }
+          },
+          {
+            "marketHeadingTitle": "Hándicap",
+            "marketsText": {
+              "-4.5": "2.05",
+              "+4.5": "1.75",
+              "-2.5": "1.72",
+              "+2.5": "2.10"
+            }
+          },
+          {
+            "marketHeadingTitle": "Total de Puntos Las Vegas Aces (F)",
+            "marketsText": {
+              "Más80.5": "1.85",
+              "Menos80.5": "1.82"
+            }
+          },
+          {
+            "marketHeadingTitle": "Total de Puntos Washington Mystics (F)",
+            "marketsText": {
+              "Más76.5": "1.78",
+              "Menos76.5": "1.91"
+            }
+          },
+          {
+            "marketHeadingTitle": "Ganador del partido y Más/Menos",
+            "marketsText": {
+              "Las Vegas Aces (F) y Más156.5": "2.72",
+              "Las Vegas Aces (F) y Menos156.5": "3.05",
+              "Washington Mystics (F) y Más156.5": "4.90",
+              "Washington Mystics (F) y Menos156.5": "4.50"
+            }
+          },
+          {
+            "marketHeadingTitle": "Rango total de puntos 3-way (159 - 171)",
+            "marketsText": {
+              "0 - 158": "1.75",
+              "159 - 171": "2.57",
+              "172+": "7.00"
+            }
+          },
+          {
+            "marketHeadingTitle": "Rango total de puntos 3-way (161 - 173)",
+            "marketsText": {
+              "0 - 160": "1.57",
+              "161 - 173": "2.87",
+              "174+": "8.50"
+            }
+          },
+          {
+            "marketHeadingTitle": "Rango total de puntos 3-way (160 - 171)",
+            "marketsText": {
+              "0 - 159": "1.65",
+              "160 - 171": "2.85",
+              "172+": "7.00"
+            }
+          },
+          {
+            "marketHeadingTitle": "Rango total de puntos 3-way (168 - 181)",
+            "marketsText": {
+              "0 - 167": "1.19",
+              "168 - 181": "4.75",
+              "182+": "13.00"
+            }
+          },
+          {
+            "marketHeadingTitle": "Rango total de puntos 3-way (169 - 182)",
+            "marketsText": {
+              "0 - 168": "1.16",
+              "169 - 182": "5.20",
+              "183+": "13.00"
+            }
+          },
+          {
+            "marketHeadingTitle": "Rango total de puntos 3-way (170 - 182)",
+            "marketsText": {
+              "0 - 169": "1.13",
+              "170 - 182": "5.80",
+              "183+": "13.00"
+            }
+          },
+          {
+            "marketHeadingTitle": "Rango total de puntos 3-way (177 - 190)",
+            "marketsText": {
+              "0 - 176": "1.04",
+              "177 - 190": "10.00",
+              "191+": "16.50"
+            }
+          },
+          {
+            "marketHeadingTitle": "Rango total de puntos 3-way (177 - 189)",
+            "marketsText": {
+              "0 - 176": "1.04",
+              "177 - 189": "10.25",
+              "190+": "15.50"
+            }
+          },
+          {
+            "marketHeadingTitle": "Rango total de puntos 3-way (159 - 172)",
+            "marketsText": {
+              "0 - 158": "1.75",
+              "159 - 172": "2.50",
+              "173+": "7.70"
+            }
+          },
+          {
+            "marketHeadingTitle": "Rango total de puntos 3-way (162 - 174)",
+            "marketsText": {
+              "0 - 161": "1.47",
+              "162 - 174": "3.05",
+              "175+": "9.00"
+            }
+          },
+          {
+            "marketHeadingTitle": "Rango total de puntos 3-way (163 - 175)",
+            "marketsText": {
+              "0 - 162": "1.42",
+              "163 - 175": "3.25",
+              "176+": "9.75"
+            }
+          },
+          {
+            "marketHeadingTitle": "Rango total de puntos 3-way (160 - 172)",
+            "marketsText": {
+              "0 - 159": "1.65",
+              "160 - 172": "2.72",
+              "173+": "7.70"
+            }
+          },
+          {
+            "marketHeadingTitle": "Rango total de puntos 3-way (160 - 173)",
+            "marketsText": {
+              "0 - 159": "1.65",
+              "160 - 173": "2.62",
+              "174+": "8.50"
+            }
+          },
+          {
+            "marketHeadingTitle": "Rango total de puntos 3-way (161 - 174)",
+            "marketsText": {
+              "0 - 160": "1.57",
+              "161 - 174": "2.77",
+              "175+": "9.00"
+            }
+          },
+          {
+            "marketHeadingTitle": "Rango total de puntos 3-way (162 - 175)",
+            "marketsText": {
+              "0 - 161": "1.47",
+              "162 - 175": "2.95",
+              "176+": "9.75"
+            }
+          },
+          {
+            "marketHeadingTitle": "Rango total de puntos 3-way (163 - 176)",
+            "marketsText": {
+              "0 - 162": "1.42",
+              "163 - 176": "3.15",
+              "177+": "10.25"
+            }
+          },
+          {
+            "marketHeadingTitle": "Rango total de puntos 3-way (164 - 176)",
+            "marketsText": {
+              "0 - 163": "1.35",
+              "164 - 176": "3.55",
+              "177+": "10.25"
+            }
+          },
+          {
+            "marketHeadingTitle": "Margen del Triunfo 14-Way",
+            "marketsText": {
+              "Las Vegas Aces (F) Gana por1-2": "7.90",
+              "Las Vegas Aces (F) Gana por3-6": "4.30",
+              "Las Vegas Aces (F) Gana por7-9": "5.80",
+              "Las Vegas Aces (F) Gana por10-13": "6.20",
+              "Las Vegas Aces (F) Gana por14-16": "10.00",
+              "Las Vegas Aces (F) Gana por17-20": "11.75",
+              "Las Vegas Aces (F) Gana por21+": "12.50",
+              "Washington Mystics (F) Gana por1-2": "8.25",
+              "Washington Mystics (F) Gana por3-6": "5.50",
+              "Washington Mystics (F) Gana por7-9": "8.75",
+              "Washington Mystics (F) Gana por10-13": "10.75",
+              "Washington Mystics (F) Gana por14-16": "17.50",
+              "Washington Mystics (F) Gana por17-20": "21.00",
+              "Washington Mystics (F) Gana por21+": "25.00"
+            }
+          },
+          {
+            "marketHeadingTitle": "Margen del Triunfo 12-Way",
+            "marketsText": {
+              "Las Vegas Aces (F) Gana por1-5": "3.70",
+              "Las Vegas Aces (F) Gana por6-10": "3.90",
+              "Las Vegas Aces (F) Gana por11-15": "5.90",
+              "Las Vegas Aces (F) Gana por16-20": "10.25",
+              "Las Vegas Aces (F) Gana por21-25": "19.50",
+              "Las Vegas Aces (F) Gana por26+": "17.00",
+              "Washington Mystics (F) Gana por1-5": "4.30",
+              "Washington Mystics (F) Gana por6-10": "6.30",
+              "Washington Mystics (F) Gana por11-15": "11.50",
+              "Washington Mystics (F) Gana por16-20": "23.00",
+              "Washington Mystics (F) Gana por21-25": "37.00",
+              "Washington Mystics (F) Gana por26+": "45.00"
+            }
+          },
+          {
+            "marketHeadingTitle": "Margen del Triunfo 7-Way",
+            "marketsText": {
+              "1-5": "2.22",
+              "6-10": "2.62",
+              "11-15": "4.25",
+              "16-20": "7.50",
+              "21-25": "12.50",
+              "26-30": "17.50",
+              "31+": "19.50"
+            }
+          },
+          {
+            "marketHeadingTitle": "Total de Puntos - Impar/Par",
+            "marketsText": {
+              "Impar": "1.78",
+              "Par": "1.93"
+            }
+          },
+          {
+            "marketHeadingTitle": "Total de Puntos Las Vegas Aces (F) - Impar/Par",
+            "marketsText": {
+              "Impar": "1.85",
+              "Par": "1.85"
+            }
+          },
+          {
+            "marketHeadingTitle": "Total de Puntos Washington Mystics (F) - Impar/Par",
+            "marketsText": {
+              "Impar": "1.85",
+              "Par": "1.87"
+            }
+          },
+          {
+            "marketHeadingTitle": "Segundo Tiempo - Ganador",
+            "marketsText": {
+              "Las Vegas Aces (F)": "1.06",
+              "Washington Mystics (F)": "8.00"
+            }
+          },
+          {
+            "marketHeadingTitle": "Segundo Tiempo - Resultado",
+            "marketsText": {
+              "Las Vegas Aces (F)": "1.09",
+              "Empate": "22.00",
+              "Washington Mystics (F)": "7.10"
+            }
+          },
+          {
+            "marketHeadingTitle": "Segundo Tiempo - Hándicap",
+            "marketsText": {
+              "Las Vegas Aces (F)-12.5": "1.90",
+              "Washington Mystics (F)+12.5": "1.80"
+            }
+          },
+          {
+            "marketHeadingTitle": "Segundo Tiempo - Total de Puntos",
+            "marketsText": {
+              "Más81.5": "1.82",
+              "Menos81.5": "1.88"
+            }
+          },
+          {
+            "marketHeadingTitle": "Segundo Tiempo - Total de Puntos Las Vegas Aces (F)",
+            "marketsText": {
+              "Más46.5": "1.75",
+              "Menos46.5": "1.91"
+            }
+          },
+          {
+            "marketHeadingTitle": "Segundo Tiempo - Total de Puntos Washington Mystics (F)",
+            "marketsText": {
+              "Más34.5": "1.78",
+              "Menos34.5": "1.91"
+            }
+          },
+          {
+            "marketHeadingTitle": "Tercer Periodo - Ganador",
+            "marketsText": {
+              "Las Vegas Aces (F)": "1.19",
+              "Washington Mystics (F)": "4.35"
+            }
+          },
+          {
+            "marketHeadingTitle": "Tercer Periodo - Resultado",
+            "marketsText": {
+              "Las Vegas Aces (F)": "1.24",
+              "Empate": "14.50",
+              "Washington Mystics (F)": "4.05"
+            }
+          },
+          {
+            "marketHeadingTitle": "Tercer Periodo - Margen del Triunfo",
+            "marketsText": {
+              "Las Vegas Aces (F) Gana por 3+": "1.39",
+              "Ningún Equipo Gana por 3+": "4.25",
+              "Washington Mystics (F) Gana por 3+": "6.50"
+            }
+          },
+          {
+            "marketHeadingTitle": "Tercer Periodo - Hándicap",
+            "marketsText": {
+              "Las Vegas Aces (F)-5.5": "1.80",
+              "Washington Mystics (F)+5.5": "1.95"
+            }
+          },
+          {
+            "marketHeadingTitle": "Tercer Periodo - Total de Puntos Las Vegas Aces (F)",
+            "marketsText": {
+              "Más24.5": "1.85",
+              "Menos24.5": "1.82"
+            }
+          },
+          {
+            "marketHeadingTitle": "Tercer Periodo - Total de Puntos Washington Mystics (F)",
+            "marketsText": {
+              "Más18.5": "1.85",
+              "Menos18.5": "1.82"
+            }
+          },
+          {
+            "marketHeadingTitle": "Tercer Periodo - Total de Puntos Impar/Par",
+            "marketsText": {
+              "Impar": "1.85",
+              "Par": "1.85"
+            }
+          },
+          {
+            "marketHeadingTitle": "Cuarto Periodo - Ganador",
+            "marketsText": {
+              "Las Vegas Aces (F)": "1.17",
+              "Washington Mystics (F)": "4.70"
+            }
+          },
+          {
+            "marketHeadingTitle": "Cuarto Periodo - Resultado",
+            "marketsText": {
+              "Las Vegas Aces (F)": "1.21",
+              "Empate": "15.00",
+              "Washington Mystics (F)": "4.35"
+            }
+          },
+          {
+            "marketHeadingTitle": "Cuarto Periodo - Margen del Triunfo",
+            "marketsText": {
+              "Las Vegas Aces (F) Gana por 3+": "1.35",
+              "Ningún Equipo Gana por 3+": "4.40",
+              "Washington Mystics (F) Gana por 3+": "7.10"
+            }
+          },
+          {
+            "marketHeadingTitle": "Cuarto Periodo - Hándicap",
+            "marketsText": {
+              "Las Vegas Aces (F)-6.5": "1.93",
+              "Washington Mystics (F)+6.5": "1.80"
+            }
+          },
+          {
+            "marketHeadingTitle": "Cuarto Periodo - Total de Puntos Las Vegas Aces (F)",
+            "marketsText": {
+              "Más22.5": "1.83",
+              "Menos22.5": "1.83"
+            }
+          },
+          {
+            "marketHeadingTitle": "Cuarto Periodo - Total de Puntos Washington Mystics (F)",
+            "marketsText": {
+              "Más16.5": "1.91",
+              "Menos16.5": "1.78"
+            }
+          },
+          {
+            "marketHeadingTitle": "Cuarto Periodo - Total de Puntos Impar/Par",
+            "marketsText": {
+              "Impar": "1.83",
+              "Par": "1.87"
+            }
+          },
+          {
+            "marketHeadingTitle": "Total de Puntos H2H A'ja Wilson - Jackie Young",
+            "marketsText": {
+              "A'ja Wilson": "1.42",
+              "Empate": "11.75",
+              "Jackie Young": "2.80"
+            }
+          },
+          {
+            "marketHeadingTitle": "Total de Puntos H2H Jewell Loyd - A'ja Wilson",
+            "marketsText": {
+              "Jewell Loyd": "5.60",
+              "Empate": "15.00",
+              "A'ja Wilson": "1.11"
+            }
+          },
+          {
+            "marketHeadingTitle": "Total de Puntos H2H A'ja Wilson - Sonia Citron",
+            "marketsText": {
+              "A'ja Wilson": "1.07",
+              "Empate": "14.50",
+              "Sonia Citron": "7.00"
+            }
+          },
+          {
+            "marketHeadingTitle": "Total de Puntos H2H Jewell Loyd - Jackie Young",
+            "marketsText": {
+              "Jewell Loyd": "3.80",
+              "Empate": "12.50",
+              "Jackie Young": "1.24"
+            }
+          },
+          {
+            "marketHeadingTitle": "Total de Puntos H2H Jackie Young - Sonia Citron",
+            "marketsText": {
+              "Jackie Young": "1.19",
+              "Empate": "11.50",
+              "Sonia Citron": "4.55"
+            }
+          },
+          {
+            "marketHeadingTitle": "Total de Puntos H2H Jewell Loyd - Sonia Citron",
+            "marketsText": {
+              "Jewell Loyd": "1.90",
+              "Empate": "9.25",
+              "Sonia Citron": "1.95"
+            }
+          },
+          {
+            "marketHeadingTitle": "El partido irá a Tiempo Suplementario",
+            "marketsText": {
+              "Sí": "7.90",
+              "No": "1.01"
+            }
+          }
+        ],
+        "eventTime": "10:00P3"
+      }
+    ]
+  },
+  "Baloncesto": {}
+}
