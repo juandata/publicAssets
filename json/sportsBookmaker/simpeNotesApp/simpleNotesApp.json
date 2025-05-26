@@ -1,0 +1,19 @@
+{
+  "simpleNotesApp": [
+    {
+      "id": 1,
+      "content": "Milk, Eggs, Bread, Butter",
+      "created_at": "2023-10-01T10:00:00Z"
+    },
+    {
+      "id": 2,
+      "content": "Discuss project milestones and deadlines.",
+      "created_at": "2023-10-02T11:30:00Z"
+    },
+    {
+      "id": 3,
+      "content": "Book flights and hotel for the upcoming trip.",
+      "created_at": "2023-10-03T09:15:00Z"
+    }
+  ]
+}
